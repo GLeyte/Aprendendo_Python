@@ -1,0 +1,304 @@
+Nome:
+Data:   /   /   
+Estados e capiais Quiz (Tipo 1)
+
+Questao 1. Qual a capital de Texas?
+       A.Tallahassee
+       B.Albany
+       C.Annapolis
+       D.Austin
+
+Questao 2. Qual a capital de West Virginia?
+       A.Columbia
+       B.Lincoln
+       C.Little Rock
+       D.Charleston
+
+Questao 3. Qual a capital de Indiana?
+       A.Indianapolis
+       B.Lincoln
+       C.Honolulu
+       D.Hartford
+
+Questao 4. Qual a capital de New Jersey?
+       A.Carson City
+       B.Des Moines
+       C.Trenton
+       D.Tallahassee
+
+Questao 5. Qual a capital de Wisconsin?
+       A.Tallahassee
+       B.Madison
+       C.Helena
+       D.Topeka
+
+Questao 6. Qual a capital de Louisiana?
+       A.Tallahassee
+       B.Baton Rouge
+       C.Phoenix
+       D.Atlanta
+
+Questao 7. Qual a capital de Arizona?
+       A.Frankfort
+       B.Olympia
+       C.Phoenix
+       D.Nashville
+
+Questao 8. Qual a capital de Mississippi?
+       A.Austin
+       B.Santa Fe
+       C.Jackson
+       D.Boise
+
+Questao 9. Qual a capital de Nebraska?
+       A.Honolulu
+       B.Concord
+       C.Lincoln
+       D.Madison
+
+Questao 10. Qual a capital de Connecticut?
+       A.Indianapolis
+       B.Montgomery
+       C.Denver
+       D.Hartford
+
+Questao 11. Qual a capital de California?
+       A.Lansing
+       B.Sacramento
+       C.Augusta
+       D.Raleigh
+
+Questao 12. Qual a capital de New York?
+       A.Providence
+       B.Jackson
+       C.Albany
+       D.Trenton
+
+Questao 13. Qual a capital de Michigan?
+       A.Nashville
+       B.Raleigh
+       C.Jackson
+       D.Lansing
+
+Questao 14. Qual a capital de North Dakota?
+       A.Santa Fe
+       B.Indianapolis
+       C.Bismarck
+       D.Augusta
+
+Questao 15. Qual a capital de New Mexico?
+       A.Denver
+       B.Dover
+       C.Santa Fe
+       D.Montpelier
+
+Questao 16. Qual a capital de Wyoming?
+       A.Dover
+       B.Cheyenne
+       C.Albany
+       D.Boston
+
+Questao 17. Qual a capital de Kentucky?
+       A.Des Moines
+       B.Carson City
+       C.Atlanta
+       D.Frankfort
+
+Questao 18. Qual a capital de Maryland?
+       A.Annapolis
+       B.Salem
+       C.Augusta
+       D.Madison
+
+Questao 19. Qual a capital de Georgia?
+       A.Salem
+       B.Lincoln
+       C.Carson City
+       D.Atlanta
+
+Questao 20. Qual a capital de Missouri?
+       A.Denver
+       B.Tallahassee
+       C.Jefferson City
+       D.Indianapolis
+
+Questao 21. Qual a capital de South Carolina?
+       A.Columbia
+       B.Des Moines
+       C.Baton Rouge
+       D.Honolulu
+
+Questao 22. Qual a capital de Oklahoma?
+       A.Santa Fe
+       B.Austin
+       C.Carson City
+       D.Oklahoma City
+
+Questao 23. Qual a capital de Maine?
+       A.Augusta
+       B.Concord
+       C.Boston
+       D.Indianapolis
+
+Questao 24. Qual a capital de Vermont?
+       A.Helena
+       B.Lansing
+       C.Phoenix
+       D.Montpelier
+
+Questao 25. Qual a capital de Montana?
+       A.Helena
+       B.Jackson
+       C.Concord
+       D.Columbus
+
+Questao 26. Qual a capital de Massachusetts?
+       A.Trenton
+       B.Boston
+       C.Augusta
+       D.Jefferson City
+
+Questao 27. Qual a capital de Iowa?
+       A.Topeka
+       B.Jefferson City
+       C.Des Moines
+       D.Olympia
+
+Questao 28. Qual a capital de Nevada?
+       A.Frankfort
+       B.Saint Paul
+       C.Hartford
+       D.Carson City
+
+Questao 29. Qual a capital de Washington?
+       A.Augusta
+       B.Dover
+       C.Harrisburg
+       D.Olympia
+
+Questao 30. Qual a capital de Pennsylvania?
+       A.Cheyenne
+       B.Annapolis
+       C.Lansing
+       D.Harrisburg
+
+Questao 31. Qual a capital de South Dakota?
+       A.Montpelier
+       B.Trenton
+       C.Bismarck
+       D.Pierre
+
+Questao 32. Qual a capital de Ohio?
+       A.Montpelier
+       B.Little Rock
+       C.Denver
+       D.Columbus
+
+Questao 33. Qual a capital de New Hampshire?
+       A.Frankfort
+       B.Boston
+       C.Concord
+       D.Honolulu
+
+Questao 34. Qual a capital de Illinois?
+       A.Nashville
+       B.Springfield
+       C.Boston
+       D.Bismarck
+
+Questao 35. Qual a capital de Alabama?
+       A.Montgomery
+       B.Springfield
+       C.Little Rock
+       D.Lansing
+
+Questao 36. Qual a capital de Rhode Island?
+       A.Providence
+       B.Sacramento
+       C.Boise
+       D.Atlanta
+
+Questao 37. Qual a capital de Colorado?
+       A.Columbia
+       B.Concord
+       C.Sacramento
+       D.Denver
+
+Questao 38. Qual a capital de Oregon?
+       A.Albany
+       B.Saint Paul
+       C.Salem
+       D.Raleigh
+
+Questao 39. Qual a capital de Minnesota?
+       A.Dover
+       B.Helena
+       C.Salem
+       D.Saint Paul
+
+Questao 40. Qual a capital de Utah?
+       A.Salt Lake City
+       B.Boston
+       C.Jackson
+       D.Concord
+
+Questao 41. Qual a capital de Florida?
+       A.Dover
+       B.Tallahassee
+       C.Atlanta
+       D.Carson City
+
+Questao 42. Qual a capital de Delaware?
+       A.Topeka
+       B.Indianapolis
+       C.Dover
+       D.Pierre
+
+Questao 43. Qual a capital de Idaho?
+       A.Boise
+       B.Montgomery
+       C.Boston
+       D.Madison
+
+Questao 44. Qual a capital de North Carolina?
+       A.Bismarck
+       B.Atlanta
+       C.Salem
+       D.Raleigh
+
+Questao 45. Qual a capital de Kansas?
+       A.Boise
+       B.Salt Lake City
+       C.Topeka
+       D.Concord
+
+Questao 46. Qual a capital de Hawaii?
+       A.Jefferson City
+       B.Providence
+       C.Honolulu
+       D.Baton Rouge
+
+Questao 47. Qual a capital de Alaska?
+       A.Boise
+       B.Des Moines
+       C.Harrisburg
+       D.Juneau
+
+Questao 48. Qual a capital de Virginia?
+       A.Topeka
+       B.Jefferson City
+       C.Richmond
+       D.Atlanta
+
+Questao 49. Qual a capital de Arkansas?
+       A.Bismarck
+       B.Des Moines
+       C.Saint Paul
+       D.Little Rock
+
+Questao 50. Qual a capital de Tennessee?
+       A.Columbia
+       B.Nashville
+       C.Richmond
+       D.Hartford
+

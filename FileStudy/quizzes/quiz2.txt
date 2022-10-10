@@ -1,0 +1,304 @@
+Nome:
+Data:   /   /   
+Estados e capiais Quiz (Tipo 2)
+
+Questao 1. Qual a capital de Arizona?
+       A.Sacramento
+       B.Phoenix
+       C.Bismarck
+       D.Harrisburg
+
+Questao 2. Qual a capital de Montana?
+       A.Atlanta
+       B.Helena
+       C.Hartford
+       D.Little Rock
+
+Questao 3. Qual a capital de Oregon?
+       A.Pierre
+       B.Indianapolis
+       C.Salt Lake City
+       D.Salem
+
+Questao 4. Qual a capital de Illinois?
+       A.Montpelier
+       B.Springfield
+       C.Saint Paul
+       D.Providence
+
+Questao 5. Qual a capital de Kansas?
+       A.Topeka
+       B.Concord
+       C.Trenton
+       D.Augusta
+
+Questao 6. Qual a capital de Nevada?
+       A.Sacramento
+       B.Boston
+       C.Topeka
+       D.Carson City
+
+Questao 7. Qual a capital de Michigan?
+       A.Frankfort
+       B.Lansing
+       C.Albany
+       D.Madison
+
+Questao 8. Qual a capital de Maryland?
+       A.Raleigh
+       B.Annapolis
+       C.Richmond
+       D.Denver
+
+Questao 9. Qual a capital de Indiana?
+       A.Tallahassee
+       B.Trenton
+       C.Indianapolis
+       D.Bismarck
+
+Questao 10. Qual a capital de Colorado?
+       A.Augusta
+       B.Denver
+       C.Olympia
+       D.Salem
+
+Questao 11. Qual a capital de Delaware?
+       A.Tallahassee
+       B.Salt Lake City
+       C.Oklahoma City
+       D.Dover
+
+Questao 12. Qual a capital de Ohio?
+       A.Concord
+       B.Montpelier
+       C.Columbus
+       D.Denver
+
+Questao 13. Qual a capital de Missouri?
+       A.Bismarck
+       B.Pierre
+       C.Jefferson City
+       D.Olympia
+
+Questao 14. Qual a capital de Iowa?
+       A.Hartford
+       B.Oklahoma City
+       C.Des Moines
+       D.Carson City
+
+Questao 15. Qual a capital de New York?
+       A.Columbia
+       B.Albany
+       C.Saint Paul
+       D.Annapolis
+
+Questao 16. Qual a capital de Virginia?
+       A.Lincoln
+       B.Albany
+       C.Trenton
+       D.Richmond
+
+Questao 17. Qual a capital de Arkansas?
+       A.Little Rock
+       B.Trenton
+       C.Harrisburg
+       D.Atlanta
+
+Questao 18. Qual a capital de Hawaii?
+       A.Salt Lake City
+       B.Honolulu
+       C.Little Rock
+       D.Carson City
+
+Questao 19. Qual a capital de Florida?
+       A.Tallahassee
+       B.Sacramento
+       C.Charleston
+       D.Jefferson City
+
+Questao 20. Qual a capital de South Carolina?
+       A.Columbia
+       B.Des Moines
+       C.Lincoln
+       D.Charleston
+
+Questao 21. Qual a capital de Massachusetts?
+       A.Charleston
+       B.Boston
+       C.Annapolis
+       D.Montpelier
+
+Questao 22. Qual a capital de Washington?
+       A.Annapolis
+       B.Olympia
+       C.Des Moines
+       D.Nashville
+
+Questao 23. Qual a capital de Vermont?
+       A.Atlanta
+       B.Jackson
+       C.Annapolis
+       D.Montpelier
+
+Questao 24. Qual a capital de Louisiana?
+       A.Columbus
+       B.Boise
+       C.Dover
+       D.Baton Rouge
+
+Questao 25. Qual a capital de California?
+       A.Concord
+       B.Saint Paul
+       C.Providence
+       D.Sacramento
+
+Questao 26. Qual a capital de South Dakota?
+       A.Pierre
+       B.Olympia
+       C.Montpelier
+       D.Indianapolis
+
+Questao 27. Qual a capital de Maine?
+       A.Cheyenne
+       B.Lincoln
+       C.Des Moines
+       D.Augusta
+
+Questao 28. Qual a capital de New Hampshire?
+       A.Boston
+       B.Bismarck
+       C.Concord
+       D.Harrisburg
+
+Questao 29. Qual a capital de Idaho?
+       A.Lincoln
+       B.Boise
+       C.Springfield
+       D.Lansing
+
+Questao 30. Qual a capital de Texas?
+       A.Nashville
+       B.Springfield
+       C.Austin
+       D.Sacramento
+
+Questao 31. Qual a capital de Wyoming?
+       A.Cheyenne
+       B.Bismarck
+       C.Salem
+       D.Austin
+
+Questao 32. Qual a capital de Pennsylvania?
+       A.Jackson
+       B.Pierre
+       C.Harrisburg
+       D.Dover
+
+Questao 33. Qual a capital de Georgia?
+       A.Madison
+       B.Raleigh
+       C.Oklahoma City
+       D.Atlanta
+
+Questao 34. Qual a capital de Alabama?
+       A.Albany
+       B.Montgomery
+       C.Santa Fe
+       D.Salem
+
+Questao 35. Qual a capital de New Jersey?
+       A.Bismarck
+       B.Columbus
+       C.Phoenix
+       D.Trenton
+
+Questao 36. Qual a capital de Nebraska?
+       A.Denver
+       B.Lincoln
+       C.Trenton
+       D.Bismarck
+
+Questao 37. Qual a capital de Mississippi?
+       A.Little Rock
+       B.Jackson
+       C.Baton Rouge
+       D.Salt Lake City
+
+Questao 38. Qual a capital de West Virginia?
+       A.Carson City
+       B.Charleston
+       C.Salt Lake City
+       D.Tallahassee
+
+Questao 39. Qual a capital de Rhode Island?
+       A.Nashville
+       B.Baton Rouge
+       C.Charleston
+       D.Providence
+
+Questao 40. Qual a capital de Kentucky?
+       A.Montpelier
+       B.Lincoln
+       C.Honolulu
+       D.Frankfort
+
+Questao 41. Qual a capital de North Carolina?
+       A.Cheyenne
+       B.Raleigh
+       C.Pierre
+       D.Boston
+
+Questao 42. Qual a capital de Oklahoma?
+       A.Providence
+       B.Helena
+       C.Little Rock
+       D.Oklahoma City
+
+Questao 43. Qual a capital de Connecticut?
+       A.Hartford
+       B.Little Rock
+       C.Providence
+       D.Annapolis
+
+Questao 44. Qual a capital de Wisconsin?
+       A.Lincoln
+       B.Sacramento
+       C.Madison
+       D.Richmond
+
+Questao 45. Qual a capital de Utah?
+       A.Oklahoma City
+       B.Pierre
+       C.Salt Lake City
+       D.Santa Fe
+
+Questao 46. Qual a capital de New Mexico?
+       A.Pierre
+       B.Lincoln
+       C.Santa Fe
+       D.Cheyenne
+
+Questao 47. Qual a capital de Tennessee?
+       A.Boston
+       B.Montgomery
+       C.Frankfort
+       D.Nashville
+
+Questao 48. Qual a capital de Minnesota?
+       A.Pierre
+       B.Richmond
+       C.Saint Paul
+       D.Frankfort
+
+Questao 49. Qual a capital de North Dakota?
+       A.Oklahoma City
+       B.Bismarck
+       C.Saint Paul
+       D.Olympia
+
+Questao 50. Qual a capital de Alaska?
+       A.Santa Fe
+       B.Trenton
+       C.Juneau
+       D.Cheyenne
+

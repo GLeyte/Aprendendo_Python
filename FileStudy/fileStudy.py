@@ -37,11 +37,11 @@ print(file.read())
 '''
 ESCREVER
 
-file = open(dataPath / 'file.txt',w)    #Escreve por cima do arquivo
+file = open(dataPath / 'file.txt','w')    #Escreve por cima do arquivo
 
 file.close()
 
-file = open(dataPath / 'file.txt',a)    #Escreve na linha final do texto (soma texto)
+file = open(dataPath / 'file.txt','a')    #Escreve na linha final do texto (soma texto)
 
 file.close()
 
@@ -52,7 +52,24 @@ print(file.read())
 
 import shelve
 
-shelfFile = shelve.open('mydata')
+
+
+'''shelfFile = shelve.open('mydata')
 cats = ['Zophie', 'Pooka', 'Simon']
 shelfFile['cats'] = cats
 shelfFile.close()
+
+shelfFile = shelve.open('mydata')
+type(shelfFile)
+print(shelfFile['cats'])
+shelfFile.close()
+
+shelfFile = shelve.open('mydata')
+print(list(shelfFile.keys()))'''
+
+import pprint
+cats = [{'name': 'Zophie', 'desc': 'chubby'}, {'name': 'Pooka', 'desc': 'fluffy'}]
+pprint.pformat(cats)    
+fileObj = open('myCats.py', 'w')
+fileObj.write('cats = ' + pprint.pformat(cats) + '\n')
+fileObj.close()
