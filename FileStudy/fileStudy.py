@@ -22,7 +22,7 @@ import os
 # plt.plot(tempo, x)
 # plt.show()
 
-dataPath = Path('C:/Users/Gabriel/Desktop/Códigos/Git/Aprendendo_Python//FileStudy')
+dataPath = Path('C:/Users/Gabriel/Desktop/Códigos/Git/Aprendendo_Python/FileStudy')
 
 '''
 LER
