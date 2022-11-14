@@ -19,12 +19,13 @@ capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix',
    'Montpelier', 'Virginia': 'Richmond', 'Washington': 'Olympia', 'West Virginia': 'Charleston', 'Wisconsin': 'Madison', 'Wyoming': 'Cheyenne'}
 
 
-dataPath = Path('C:/Users/Gabriel/Desktop/Códigos/Git/Aprendendo_Python/FileStudy/quizzes')
+dataPath = Path('C:/Users/Gabriel/Desktop/Codigos/Git/Aprendendo_Python/FileStudy/quizzes')
 
 
 for quizNum in range(3):
 
   quizFile = open(dataPath / f'quiz{quizNum+1}.txt', 'w')
+  
   respostaFile = open(dataPath / f'resposta{quizNum+1}.txt', 'w')
 
   quizFile.write("Nome:\nData:   /   /   \n")
