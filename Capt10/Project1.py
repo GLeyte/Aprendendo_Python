@@ -1,25 +1,37 @@
 import re,os
 from pathlib import Path
 
-dataPath = Path('C:/Users/Gabriel/Desktop/Códigos/Git/Aprendendo_Python/Capt10/datas')
+dataPath = Path('C:/Users/Gabriel/Desktop/Códigos/Git/Aprendendo_Python/Capt10/Datas')
+dataPath_new = Path('C:/Users/Gabriel/Desktop/Códigos/Git/Aprendendo_Python/Capt10/Datas_new')
 
 dataEUA = re.compile(r'''
     (\d+)/
     (\d+)/
     (\d+)
-
 ''', re.VERBOSE)
 
 
-print(os.listdir(dataPath))
+for fileAqrv in os.listdir(dataPath):
+    file = open(dataPath / fileAqrv)
+    file_new = open(dataPath_new / ('new'+fileAqrv),'w')
 
-# for folderName, subfolders, filenames in os.walk(dataPath):
-#     print('The current folder is ' + folderName)
+    datas = file.read().split()
 
-#     for subfolder in subfolders:
-#         print('SUBFOLDER OF ' + folderName + ': ' + subfolder)
+    file.close()
 
-#     for filename in filenames:
-#         print('FILE INSIDE ' + folderName + ': '+ filename)
+    for data in datas:
+        mo = dataEUA.search(data)
+        
+        if mo==None:
+            continue
 
-#     print('')
+        mes = mo.group(1)
+        dia = mo.group(2)
+        ano = mo.group(3)
+
+        data_new = dia+'/'+mes+'/'+ano
+
+        tam = len(data)
+        space = (50-tam)*' '
+
+        file_new.write(f'{data}{space}{data_new}\n')
