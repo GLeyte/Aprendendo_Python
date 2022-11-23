@@ -9,7 +9,13 @@ res.raise_for_status()
 
 file = open(dataPath/"Romeu.txt",'wb')
 
-for chunk in res.iter_content(0):
+i=0
+
+for chunk in res.iter_content(10):
+        i+=1
         file.write(chunk)
+
+        if i>10:
+            break
 
 file.close()
