@@ -3,7 +3,7 @@ import random
 import matplotlib.pyplot as plt
 import numpy as np
 
-dataPath = Path('C:/Users/Gabriel/Desktop/Códigos/Git/Aprendendo_Python/text_generate_change')
+dataPath = Path('C:/Users/Gabriel/Desktop/Codigos/Git/Aprendendo_Python/Automate/text_generate_change')
 
 file = open(dataPath/'original.txt')
 file_new = open(dataPath/'novo.txt','w')

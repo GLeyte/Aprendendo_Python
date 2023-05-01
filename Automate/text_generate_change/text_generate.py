@@ -1,7 +1,7 @@
 from pathlib import Path
 import random
 import numpy as np
-dataPath = Path('C:/Users/Gabriel/Desktop/Códigos/Git/Aprendendo_Python/text_generate_change')
+dataPath = Path('C:/Users/Gabriel/Desktop/Codigos/Git/Aprendendo_Python/Automate/text_generate_change')
 
 data_num = random.randint(1000, 2000)
 
